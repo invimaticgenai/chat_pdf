@@ -10,6 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.callbacks import get_openai_callback
 
 openai_api_key = os.environ["OPENAI_API_KEY"]
+
 # Sidebar contents
 with st.sidebar:
     st.title('🤗💬 Chat with PDF')
