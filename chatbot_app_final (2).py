@@ -17,12 +17,12 @@ Original file is located at
 
 #!pip install streamlit_extras
 
-openai_api_key = "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"
+openai_api_key = "sk-ArmpbgD0GHw74DQMPVxrT3BlbkFJz7aFWMvhg8LT2DCFxWUeabc"
 
 import os
 
 # Replace 'your_openai_api_key_here' with your actual OpenAI API key
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'sk-6Nkez4QnMxlBcPzQYaXiT3BlbkFJ03FDkW2HLgWSQSspUdu0abc'
 
 #!pip install faiss-gpu
 
