@@ -17,7 +17,7 @@ Original file is located at
 
 #!pip install streamlit_extras
 
-openai_api_key = "sk-ArmpbgD0GHw74DQMPVxrT3BlbkFJz7aFWMvhg8LT2DCFxWUeabc"
+openai_api_key = "sk-ArmpbgD0GHw74DQMPVxrT3BlbkFJz7aFWMvhg8LT2DCFxWUeab1c"
 
 import os
 
